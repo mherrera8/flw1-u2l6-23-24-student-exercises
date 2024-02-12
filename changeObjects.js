@@ -6,7 +6,10 @@ const favs = {
 };
 
 // 1. Change 'favs' values to your own using dot notation.
+favs.artist = "Tate McRae";
 // 2. Add at least 2 additional favorites (e.g. movie, tv show, videogame) to the object `favs` using dot notation.
+favs.color = "blue";
+favs.season = "spring";
 // 3. Be sure to click 'Run' to see your changes.
 
 

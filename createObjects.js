@@ -4,14 +4,13 @@
 //  - Include color, special abilities, where it lives, and any other information you'd like to include.
 //  - Once complete, run your code.
 
-
-
-
-
-
-
-
-
+let mythicalCreature = {
+  name: "Expedia",
+  color: "blue",
+  specialAblilities: "find travel",
+  home: "internet",
+  age: 37
+}
 
 
 
